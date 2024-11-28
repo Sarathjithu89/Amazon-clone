@@ -45,11 +45,11 @@ Since it’s for learning purposes, it doesn’t include functionality like sear
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/amazon-clone-html-css.git
+   git clone https://github.com/Sarathjithu89/Amazon-clone.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd amazon-clone-html-css
+   cd Amazon-clone
    ```
 3. Open `index.html` in your web browser to view the project.
 
