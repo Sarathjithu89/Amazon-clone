@@ -2,6 +2,7 @@
 # Amazon Clone (HTML & CSS Only)
 
 Welcome to my **Amazon Clone** project! This is a beginner-friendly project built using only **HTML** and **CSS**. The purpose of this project is to practice and improve my front-end development skills by recreating the basic structure and style of the Amazon website.
+check the website at: https://sarathjithu89.github.io/Amazon-clone/
 
 ---
 
