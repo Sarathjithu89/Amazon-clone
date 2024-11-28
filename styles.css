@@ -17,7 +17,7 @@
   width: 100px;
 }
 .logo {
-  background-image: url(Pictures/Logo/amazon_logo.png);
+  background-image: url("Pictures/Logo/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -175,7 +175,7 @@
   font-weight: 700;
 }
 .hero-section {
-  background-image: url(/Pictures/Hero_sec/Hero_sec_img_1.jpg);
+  background-image: url("/Pictures/Hero_sec/Hero_sec_img_1.jpg");
   height: 350px;
   background-size: cover;
   display: flex;
@@ -317,7 +317,7 @@ footer ul {
   height: 68px;
 }
 .foot-logo {
-  background-image: url(Pictures/Logo/amazon_logo.png);
+  background-image: url("Pictures/Logo/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100px;
