@@ -391,5 +391,9 @@ footer ul {
   color: #dddddd;
 }
 .terms-options a {
-  color: white;
+  color: #e3e3e3b6;
+  padding: 10px;
+}
+.terms-inc {
+  margin: 10px;
 }
