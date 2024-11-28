@@ -68,6 +68,7 @@ Since it’s for learning purposes, it doesn’t include functionality like sear
 
 ### Homepage Layout  
 ![Homepage Screenshot]
+![alt text](https://github.com/[Sarathjithu89]/[Amazon-clon]/blob/[branch]/image.jpg?raw=true)
 
 ---
 
