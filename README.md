@@ -58,8 +58,7 @@ Since it’s for learning purposes, it doesn’t include functionality like sear
 
 1. Practice **HTML** for building a structured webpage.
 2. Enhance **CSS** skills for styling and layout.
-3. Learn to use **media queries** for responsive design.
-4. Get familiar with creating components like navigation bars, grids, and footers.
+3. Get familiar with creating components like navigation bars, and footers.
 
 ---
 
