@@ -67,8 +67,7 @@ Since it’s for learning purposes, it doesn’t include functionality like sear
 
 ### Homepage Layout
 
-![Homepage Screenshot]
-![alt text](https://github.com/[Sarathjithu89]/[Amazon-clone]/blob/[master]/Pictures/Screenshots/Screenshot 2024-11-28 171246.png?raw=true)
+![Homepage Screenshot](https://github.com/[Sarathjithu89]/[Amazon-clone]/blob/[master]/Pictures/Screenshots/Screenshot 2024-11-28 171246.png?raw=true)
 
 ---
 
