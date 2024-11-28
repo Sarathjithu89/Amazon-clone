@@ -390,5 +390,6 @@ footer ul {
   font-size: 12px;
   color: #dddddd;
 }
-.terms-options {
+.terms-options a {
+  color: white;
 }
